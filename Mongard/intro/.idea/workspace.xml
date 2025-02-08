@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f69a00f2-0b2c-4371-819d-32d733f3b27b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/djangogirls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/blog/templates/blog/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/blog/templates/blog/post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangogirls/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/home/froms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/templates/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Web_Development.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Web_Development.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iAmirHosein92&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iAmirHosein92/WebDevelopment.git&quot;,
+    &quot;accountId&quot;: &quot;6d0fdd80-5f1e-40b2-bfa6-499fee27f9a5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2s6kIKmqQCjzWQEzCHA8q0JWrzo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-GitHub Copilot&quot;: &quot;GitHub Copilot&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-GitHub Copilot&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/isilas/Web_Development/intro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="intro" type="Python.DjangoServer" factoryName="Django server">
+      <module name="intro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f69a00f2-0b2c-4371-819d-32d733f3b27b" name="Changes" comment="" />
+      <created>1737783330591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737783330591</updated>
+      <workItem from="1737783331704" duration="5636000" />
+      <workItem from="1737870566752" duration="6563000" />
+      <workItem from="1737877149480" duration="46000" />
+      <workItem from="1737877213235" duration="1558000" />
+      <workItem from="1737961940485" duration="6235000" />
+      <workItem from="1737968209247" duration="3186000" />
+      <workItem from="1737971415732" duration="483000" />
+      <workItem from="1738045768861" duration="3569000" />
+      <workItem from="1738049585327" duration="1615000" />
+      <workItem from="1738135918702" duration="7000" />
+      <workItem from="1738135942859" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
