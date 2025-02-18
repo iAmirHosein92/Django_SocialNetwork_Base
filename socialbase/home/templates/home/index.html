@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %}HomePage{% endblock %}
+{% block content %}
+
+    <div class="card">
+        {% for post in posts %}
+
+            <h5>{{ post.author }}</h5>
+            <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+            <p class="card-body">{{ post.body|truncatewords:8 }}</p>
+            <small>{{ post.updated|timesince}}</small>
+            <hr/>
+        {% endfor %}
+    </div>
+
+
+{% endblock %}
