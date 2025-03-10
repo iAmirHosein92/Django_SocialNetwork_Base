@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7d3f0f-324c-46d3-a127-d56e221a707a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/intro/home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receiver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sender.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Web_Development.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web_Development.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -124,6 +124,8 @@
       <workItem from="1737448793538" duration="63000" />
       <workItem from="1737782919285" duration="409000" />
       <workItem from="1737789148706" duration="562000" />
+      <workItem from="1740378659108" duration="6622000" />
+      <workItem from="1740642449845" duration="4000" />
     </task>
     <servers />
   </component>

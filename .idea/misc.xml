@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 virtualenv at ~/Web_Development/.venv" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 virtualenv at ~/Web_Development/.venv" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 virtualenv at ~/Web_Development/env" project-jdk-type="Python SDK" />
 </project>
